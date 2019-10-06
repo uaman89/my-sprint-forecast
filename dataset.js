@@ -1,4 +1,4 @@
-export const sprintHistory = [
+export default [
     { planned: 40, actual: 48, previous: null, daysInSprint: 10, teamSize: 6, feTeamSize: 2, beTeamSize: 4, teamVelocity: 50, success: true },
 
     { planned: 36, actual: 43, previous: 48, daysInSprint: 9, teamSize: 6, feTeamSize: 2, beTeamSize: 4, teamVelocity: 43, success: true },
