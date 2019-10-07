@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/uaman89/my-sprint-forecast/issues"
   },
-  "homepage": "https://github.com/uaman89/my-sprint-forecast#readme"
+  "homepage": "https://github.com/uaman89/my-sprint-forecast#readme",
+  "dependencies": {
+    "brain.js": "^2.0.0-alpha.9"
+  }
 }
